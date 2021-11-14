@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanimou&label=Profile%20views&color=0e75b6&style=flat" alt="tanimou" /> </p>
-
+https://github.com/Tarunagg1/Tarunagg1/blob/main/code1.gif
 - 🌱 I’m currently learning **Django, Javascript, React Js, Python,**
 
 - 📫 How to reach me **Tanimou@live.fr**
